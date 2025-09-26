@@ -57,6 +57,16 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        carbon: {
+          success: "hsl(var(--carbon-success))",
+          warning: "hsl(var(--carbon-warning))",
+          danger: "hsl(var(--carbon-danger))",
+          info: "hsl(var(--carbon-info))",
+          scope1: "hsl(var(--carbon-scope1))",
+          scope2: "hsl(var(--carbon-scope2))",
+          scope3: "hsl(var(--carbon-scope3))",
+          neutral: "hsl(var(--carbon-neutral))",
+        },
       },
       borderRadius: {
         lg: "var(--radius)",

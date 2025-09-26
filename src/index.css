@@ -17,7 +17,7 @@ All colors MUST be HSL.
     --popover: 0 0% 100%;
     --popover-foreground: 222.2 84% 4.9%;
 
-    --primary: 222.2 47.4% 11.2%;
+    --primary: 142 76% 36%;
     --primary-foreground: 210 40% 98%;
 
     --secondary: 210 40% 96.1%;
@@ -34,9 +34,19 @@ All colors MUST be HSL.
 
     --border: 214.3 31.8% 91.4%;
     --input: 214.3 31.8% 91.4%;
-    --ring: 222.2 84% 4.9%;
+    --ring: 142 76% 36%;
 
     --radius: 0.5rem;
+
+    /* Carbon calculator specific colors */
+    --carbon-success: 142 76% 36%;
+    --carbon-warning: 43 96% 56%;
+    --carbon-danger: 0 84% 60%;
+    --carbon-info: 217 91% 60%;
+    --carbon-scope1: 0 84% 60%;
+    --carbon-scope2: 25 95% 53%;
+    --carbon-scope3: 217 91% 60%;
+    --carbon-neutral: 142 76% 36%;
 
     --sidebar-background: 0 0% 98%;
 
